@@ -5,7 +5,6 @@ The Metropolitan Museum of Art of New York City, colloquially "the Met", **is th
 ---------------------------------------------------------------------------
 # Ordered List
 ###### Airport that is closest to the museum
-John F. Kennedy International Airport
 1. Head south on N service Rd
 2. Sharp left onto S service Rd
 3. Turn left toward 134th St
@@ -18,3 +17,4 @@ John F. Kennedy International Airport
 -  The Met Fifth Avenue
 -  The Met Breuer
 -  The Met Cloisters
+[AboutMe](AboutMe.md)
