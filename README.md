@@ -21,9 +21,9 @@ The Metropolitan Museum of Art of New York City, colloquially "the Met", **is th
 ---------------------------------------------------------------------------
 # TABLES
 This table describes the cities , locations and the time .
- | City   |          Location          | Time |
-  -------            ---------           -----
- |  KS    |       kansas speedway      |   3  |
- |  NY    |       Times Square         |   7  |
- |  NJ    |       Ellis Island         |   5  |
- |  TX    |  San Antonio's River Walk  |   8  |
+ | City | Location | Time |
+ | ---- | -------- | ---- |
+ |  KS | kansas speedway |   3  |
+ |  NY | Times Square |   7  |
+ |  NJ | Ellis Island |   5  |
+ |  TX | San Antonio's River Walk |   8  |
