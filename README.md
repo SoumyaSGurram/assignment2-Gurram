@@ -30,4 +30,5 @@ This table describes the cities , locations and the time .
 ---------------------------------------------------------------------------
 # Quotes
 > The two most important days in your life are the day you are born and the day you find out why. *--Mark Twain*
->>My mission in life is not merely to survive, but to thrive.*--Maya Angelou*
+
+>My mission in life is not merely to survive, but to thrive.*--Maya Angelou*
