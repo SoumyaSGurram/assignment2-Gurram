@@ -31,4 +31,21 @@ This table describes the cities , locations and the time .
 # Quotes
 > The two most important days in your life are the day you are born and the day you find out why. *--Mark Twain*
 
->My mission in life is not merely to survive, but to thrive.*--Maya Angelou*
+>My mission in life is not merely to survive, but to thrive.*--Maya Angelou
+---------------------------------------------------------------------------------------------------------
+# Code Fencing
+How to loop pages in wordpress ?
+[Stackoverflowlink](https://stackoverflow.com/questions/48974796/how-to-loop-pages-in-wordpress)
+```
+<?php query_posts('cat=-3'); ?>
+
+<?php if (have_posts()) : ?>
+<?php while (have_posts()) : the_post(); ?>
+  <h3></h3>	
+  <p><?php the_time('F jS, Y') ?></p>
+  <?php the_content(); ?>
+<?php endwhile; ?>
+
+```
+
+[Sourcelink](https://css-tricks.com/snippets/wordpress/remove-specific-categories-from-the-loop/)
